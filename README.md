@@ -298,10 +298,6 @@ npm run build
 
 ## Screenshots
 
-Add screenshots here when available:
+![Both modes screenshot placeholder](docs/Proof)
 
-<!-- Replace these placeholders with committed, non-sensitive screenshots. -->
 
-![Library mode screenshot placeholder](docs/screenshots/library-mode.png)
-
-![Uploads mode screenshot placeholder](docs/screenshots/uploads-mode.png)
