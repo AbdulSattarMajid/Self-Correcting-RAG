@@ -298,6 +298,6 @@ npm run build
 
 ## Screenshots
 
-![Both modes screenshot placeholder](docs/Proof)
+[Both modes Proof placeholder](docs/Proof)
 
 
